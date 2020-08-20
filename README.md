@@ -1,22 +1,16 @@
 # Hi there, I'm [Hardik!](https://hardikahalpara.ml/) 👋
 
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Hardik Ahalpara | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Hardik Ahalpara | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://www.linkedin.com/in/hardik-ahalpara-3031ab150/">
+  <img align="left" alt="Hardik Ahalpara | LinkedIn" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 <br />
 <br />
 
-Hi, I'm Hardik Ahalpara, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Hardik Ahalpara, an inquisitive and creative developer from India.
 
-- 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
-- 🌱 I’m currently learning GraphQL & Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 Presently working on JavaScript advancements
+- 🌱 Pretty hands on ReactJS, NextJS, GatsbyJS, and GraphQL
+- 👯 Always ready to collaborate on ambitious ideas
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 **Languages and Tools:**  
