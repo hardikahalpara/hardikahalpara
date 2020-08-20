@@ -1,5 +1,4 @@
 # Hi there, I'm [Hardik!](https://hardikahalpara.ml/) 👋
-<br/>
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=hardikahalpara&label=Views&color=green&style=plastic" alt="Hardik Ahalpara"/></p>
 <br/>
