@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=hardikahalpara&label=Views&color=green&style=plastic" alt="Hardik Ahalpara"/></p>
 <br/>
 <a href="https://www.linkedin.com/in/hardik-ahalpara-3031ab150/">
-  <img align="left" alt="Hardik Ahalpara | LinkedIn" width="25px" src="https://raw.githubusercontent.com/hardikahalpara/hardikahalpara/724720da664467db30997491492f83df9fb96631/assets/linkedin.svg" />
+  <img align="left" alt="Hardik Ahalpara | LinkedIn" width="25px" src="https://lh3.googleusercontent.com/proxy/pPie-BpkX-DoxCrGVh_zT2Zp9Y1P-f0_V-3yhtBRlM_e4Ln79_PM2Ue8zbLliMX4S6qpZZKqpjhcEvWAF2P3cqNzM2al_8VYUTxJ0ftShXBs4aZi7SnZfAp_A7FvIy6DWn4" />
 </a>
 <br />
 <br />
