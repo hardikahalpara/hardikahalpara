@@ -1,7 +1,7 @@
 # Hi there, I'm [Hardik!](https://hardikahalpara.ml/) 👋
 
 <a href="https://www.linkedin.com/in/hardik-ahalpara-3031ab150/">
-  <img align="left" alt="Hardik Ahalpara | LinkedIn" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="left" alt="Hardik Ahalpara | LinkedIn" width="20px" src="https://raw.githubusercontent.com/hardikahalpara/hardikahalpara/724720da664467db30997491492f83df9fb96631/assets/linkedin.svg" />
 </a>
 <br />
 <br />
