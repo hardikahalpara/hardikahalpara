@@ -30,7 +30,7 @@ Hi, I'm Hardik Ahalpara, an inquisitive and creative developer from India.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hardikahalpara&show_icons=true&include_all_commits=true&theme=nord" alt="Hardik's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hardikahalpara&theme=nord" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hardikahalpara&layout=compact&theme=nord" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
