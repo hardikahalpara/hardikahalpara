@@ -14,9 +14,8 @@ Hi, I'm Hardik Ahalpara, an inquisitive and creative developer from India.
 - 💬 Ask me about anything [here](https://github.com/hardikahalpara/hardikahalpara/issues)
 
 **Languages and Tools:**  
-
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  
@@ -26,7 +25,6 @@ Hi, I'm Hardik Ahalpara, an inquisitive and creative developer from India.
 <img height="30" src="https://toppng.com/uploads/preview/mongo-db-design-mongodb-logo-mongodb-11562879783bwj2cknalk.png"> 
 <img height="30" src="https://seeklogo.com/images/S/strapi-logo-3566BEBAAE-seeklogo.com.png"> 
 <img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTw27EpIcTyxG8Q61DxQU0QtdsWGYOMabN_ag&usqp=CAU"> 
- 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hardikahalpara&show_icons=true&include_all_commits=true&theme=nord" alt="Hardik's github stats" />
