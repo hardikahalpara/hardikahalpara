@@ -37,10 +37,14 @@ Hi, I'm Hardik Ahalpara, an inquisitive and creative developer from India.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hardikahalpara&repo=dynamic-form-generation-using-GraphCMS-and-NextJS&theme=nord" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hardikahalpara&repo=Personal-Blog-using-Gatsby&theme=nord" />
 </a> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hardikahalpara&repo=dynamic-form-generation-using-GraphCMS-and-NextJS&theme=nord" />
-</a> 
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hardikahalpara&repo=pomodoro-timer-desktop-app&theme=nord" />
+</a>
 
