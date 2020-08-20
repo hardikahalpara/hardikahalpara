@@ -1,10 +1,11 @@
 # Hi there, I'm [Hardik!](https://hardikahalpara.ml/) 👋
-
+<br/>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=hardikahalpara&label=Views&color=green&style=plastic" alt="Hardik Ahalpara"/></p>
+<br/>
 <a href="https://www.linkedin.com/in/hardik-ahalpara-3031ab150/">
   <img align="left" alt="Hardik Ahalpara | LinkedIn" width="25px" src="https://raw.githubusercontent.com/hardikahalpara/hardikahalpara/724720da664467db30997491492f83df9fb96631/assets/linkedin.svg" />
 </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikahalpara&label=Views&color=red&style=plastic" alt="YashMantri" /> </p>
-
 <br />
 <br />
 
