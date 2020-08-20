@@ -1,4 +1,4 @@
-<h2>Hi there, I'm [Hardik!](https://hardikahalpara.ml/) 👋</h2>
+##Hi there, I'm [Hardik!](https://hardikahalpara.ml/) 👋
 
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" alt="Hardik Ahalpara | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
